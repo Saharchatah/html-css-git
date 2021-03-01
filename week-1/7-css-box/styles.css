@@ -1,0 +1,11 @@
+/* Try different box model properties below */
+.pages__page {
+  border: 1px solid #4491db;
+  border-radius: 4px;
+  background: #fff;
+  width: 0.5em;
+  height: 0.5em;
+  margin: 0.5em;
+  padding: 0.5em
+}
+* { border: 1px solid red; }
